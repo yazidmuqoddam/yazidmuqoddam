@@ -1,0 +1,25 @@
+# Sovereign Health Journal
+
+A privacy‑first mental health & wellbeing journal that runs entirely on‑device using the QVAC SDK.
+
+## Why
+
+Most mental health apps send your most intimate thoughts to the cloud.  
+Sovereign Health Journal explores a different path: **local‑first AI** where all journaling, analysis, and insights stay on your device.
+
+## What
+
+Planned core features (hackathon MVP):
+
+- Local daily mood & text journaling
+- On‑device AI analysis of emotions and recurring themes
+- Weekly insights and reflections generated locally
+- Offline “support mode” for basic grounding and coping suggestions
+
+## Tech (planned)
+
+- QVAC SDK for on‑device LLM
+- JavaScript / TypeScript
+- Simple desktop or web UI (to be decided)
+
+This repository will track my progress during the QVAC Hackathon.
